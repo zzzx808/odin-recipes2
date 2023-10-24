@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title> Salmon Cakes </title>
+    </head>
+    <body>
+        <h1>Salmon Cakes</h1>
+        <img src=https://www.christinascucina.com/wp-content/uploads/2016/09/fullsizeoutput_eaae-683x1024.jpeg>
+    
+        <h2>Description</h2>
+    <p> Salmon cakes are a cheap and tasy dinner option that pair well with sald and chips. </p>
+        <h2>Ingredients</h2>
+        <ul>
+            <li>1/4 cup finely chopped green onion</li>
+            <li>1/4 cup mayonnaise</li>
+            <li>1 tablespoon fresh lemon juice</li>
+            <li>1/4 teaspoon seasoned salt</li>
+            <li>cayenne pepper to taste</li>
+            <li>one egg beaten</li>
+            <li>1 can skinless, bonless pink salmon, drained and flaked</li>
+            <li>1 cup dry bread crumbs, divided</li>
+            <li>3 table spoons butter</li>
+        </ul>
+    <h2>Steps</h2>
+        <ol>
+            <li>Combine the bell pepper, green onion, mayonnaise, lemon juice, seasoned salt, cayenne, egg, salmon, and about one-fourth of the bread crumbs together in a bowl. Mix well. </li>
+            <li> Cover the bowl and refrigerate for 1 hour. </li>
+            <li>Scoop the salmon mixture into balls about the size of a large egg. Roll the salmon balls in the remaining breadcrumbs to evenly coat on all sides. Place the coated salmon balls on a sheet of waxed paper. Gently flatten each ball to about 1/2-inch thick. </li>
+            <li>Heat a skillet over medium heat. Add the butter, tilting the pan to evenly coat the bottom with the butter as it melts. When the butter is hot, add the salmon cakes (in batches if needed) and cook on each side for 3-4 minutes. </li>
+        </ol>
+    </body>
+</html>
